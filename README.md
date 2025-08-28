@@ -29,6 +29,7 @@
 * **Go Bridge** → connects to WhatsApp multi-device API.
 * **Python MCP Server** → exposes standardized tools (send, search, list).
 * **Google ADK Agent** → orchestrates message crafting + disclaimer + sending.
+* **WhatsApp MCP Server (repo)** → [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
 
 ---
 
